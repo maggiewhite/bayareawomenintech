@@ -16,10 +16,14 @@ All groups/events are free unless otherwise specified.
  * Not exclusive to people who identify as women, but women-focused
 * [Global Tech Women](http://www.globaltechwomen.com/)
  * Hosts a virtual book club and annual conference
+* [Tech Ladymafia](http://techladymafia.com/jointheladymafia)
+* [XX-UX](https://plus.google.com/communities/108691399738995815547)
+ * Women in UX
 
 ### Facebook Groups
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)
  * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group is exclusively people who identify as women. There's also a Bay Area variant (linked above)
+* [Russian-Speaking Women in Tech Silicon Valley](https://www.facebook.com/groups/RussianWomenInTech)
 
 ### Event-based groups
 #### General
@@ -61,6 +65,40 @@ All groups/events are free unless otherwise specified.
  * Hosts ~yearly Telesummit and startup challenge
 * Women in Technology International [SF](http://www.witi.com/networks/sanfrancisco/)/[Silicon Valley](http://www.witi.com/networks/siliconvalley/)
  * ~$100-200/year women in tech organization
+* [Association for Women in Science](https://awis.site-ym.com/?ChapterList#West) - [SF](http://www.sfawis.com/), [East Bay](http://www.ebawis.org/main_web/), [Palo Alto](http://pa-awis.weebly.com/)
+ * $65-150/year women in science organization
+* Codess [SF](http://www.codess.net/events/san-francisco/)
+ * Doesn't appear to be very active
+* Lesbians who Tech [SF](http://lesbianswhotech.org/events/city/san-francisco/)/[Silicon Valley](http://lesbianswhotech.org/events/city/silicon-valley/)
+* [HealthTechWomen](https://www.meetup.com/HealthTechWomen/) - SF
+* Levo - [Bay Area](https://www.levo.com/locallevo/bay-area)
+ * Mentorship program with events
+* Ellevate - [SF](https://www.ellevatenetwork.com/chapters/56-usa-san-francisco), [Silicon Valley](https://www.ellevatenetwork.com/chapters/68-usa-silicon-valley)
+ * ~$100-300/year community for professional women
+* [Femgineers](http://www.meetup.com/Femgineers/) - SF
+ * Relatively infrequent meetups
+* Society of Women Engineers - San Jose, Palo Alto, SF and East Bay
+ * Paid professional women in engineering organzation, mostly geared towards college students
+* [Women Catalysts](http://www.womencatalysts.com/) - [SF](http://www.womencatalysts.com/events/#sfevents)
+* IEEE Women in Engineering [Santa Clara Valley](http://ieee-wie-scv.org/)
+ * Need to be a member of IEEE to join
+* [Women Techmakers](https://www.womentechmakers.com/membership) - Silicon Valley
+* [Glassbreakers](https://www.glassbreakers.co/)
+ * Online professional women mentorship platform
+* National Association of Professional Women (NAPW)
+ * Scammy expensive ($700-900) professional women org that has a 1-star rating on Yelp
+* [Professional BusinessWomen of California](http://pbwc.org/)
+ * ~$150/year hosts events in the Bay Area
+* [SheSays](http://weareshesays.com/)
+ * Theoretically hosts events in SF
+* [TechLiminal](https://techliminal.com/)
+ * Intro tech workshops (not free), membership $25/month
+* Write/Speak/Code [SF & Bay Area](http://www.meetup.com/WriteSpeakCode-SFBay/)
+* [Airbnb Taking Flight](http://airbnb.io/events/taking-flight/)
+* [Bay Area Women in Machine Learning & Data Science](http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)
+* [Leading Women in Technology](http://www.leadingwomenintechnology.org/)
+ * Hosts some events in the bay area, no way to sign up for location specific
+ * ~$350/year, geared towards women 5-15 years into their careers
 
 #### Tech specific
 * PyLadies [SF](http://www.meetup.com/pyladiessf/)/[Silicon Valley](http://www.meetup.com/PyLadies-Silicon-Valley/)
@@ -71,6 +109,22 @@ All groups/events are free unless otherwise specified.
  * To connect, inspire, and empower female leaders in the mobile and digital space. 
 * [Women in Hardware](http://www.womeninhardware.io/) - SF
  * Women in Hardware helps connect female founders, engineers, investors, manufacturers, and marketers building the future of connected hardware. We are 500+ badass women helping other women be even more badass in SF, NYC, Boston and beyond.
+* [Data Driven Women](http://www.meetup.com/Data-Driven-Women/) - SF
+ * Seemingly stagnant meetup group for women in data analysis
+* Lean In [SF - UX](http://leanincircles.org/circle/lean-in-ux)
+* [Duchess SF](http://www.meetup.com/Duchess-SF-Bay-Area/)
+ * Java and Salesforce group
+* Ladies that UX [SF](http://ladiesthatux.com/san-francisco/)
+ * Can't tell if this is active
+* [Passion Projects](http://passion-projects.is/) - SF
+ * Monthly talks by women in tech, seems to be inactive
+* Rails Girls [SF](http://railsgirls.com/sanfrancisco)
+ * Annual 2-day workshop on Ruby on Rails for women, last hosted in 2014
+* [Silicon Valley Women in Robotics](https://svrobo.org/membership/women-in-robotics/)
+* [Women in Security and Privacy](https://www.wisporg.com/)
+ * Based out of SF, don't see anything immediately actionable outside of joining the newsletter
+* [Watermark](https://www.wearewatermark.org/)
+ * Yet another paid professional women's networking organization ($250-1000/year)
 
 ### Volunteer Opportunities
 * [Girls Who Code](http://girlswhocode.com/get-involved/)
@@ -86,6 +140,19 @@ All groups/events are free unless otherwise specified.
  * Opportunities to mentor, coach, volunteer, judge or be an ambassador
 * [techbridge](http://www.techbridgegirls.org/index.php?id=55) - Oakland, San Jose
  * An after school program that involves  families, role models, school districts and partners to help girls from undeserved communities learn about STEM
+* [TechWomen](https://www.techwomen.org/mentors/apply-now)
+ * Volunteer as a professional or cultural mentor from September - October to mentor a woman from Africa, Central Asia or the Middle East
+ * Requires that you have a job and a project for said person, and are willing to work with them for five weeks
+ * TechWomen brings emerging women leaders in science, technology, engineering and mathematics (STEM) from Africa, Central Asia and the Middle East together with their professional counterparts in the United States for a yearly mentorship and exchange program.
+* [AspireIT](https://www.ncwit.org/aspirations-alumnae-and-aspirations-community-members)
+ * Plan and host a mentorship program for K-12 girls interested in computing (not location specific)
+* [code.org](https://code.org/volunteer)
+ * Teachers would love to have somebody passionate about computer science education who can help in the classroom, or for somebody who can inspire their students by talking about the breadth of possibilities with computer science (which could be done through a video chat).
+* [Dare 2B Digital](http://www.dare2bdigitalconference.com/ic-mentor-application/)
+ * Yearly conference for girls and boys grades 7-10 hosted in February
+ * Not specific for girls, but has received awards for their encouragement of diversity
+ * Volunteer as a mentor
+* [Yearup](http://www.yearup.org/get-involved/mentor/?location=national-us/)
 
 ### Education/Boot Camps
 * [HackBright Academy](https://hackbrightacademy.com/)
@@ -107,6 +174,7 @@ All groups/events are free unless otherwise specified.
 * [Medium: List of over 80 Women in Tech Programs & Events in the Bay Area](https://medium.com/@karenchurch/list-of-over-80-women-in-tech-programs-events-in-the-bay-area-5a8d210de878#.3rc82dvsb)
 * [Geek Feminism: List of women in technology groups](http://geekfeminism.wikia.com/wiki/List_of_women_in_technology_groups)
 * [SkilledUp: Organizations that Empower Women in Technology](http://www.skilledup.com/articles/organizations-empower-women-technology)
+* [Google: Women Techmakers Communities](https://www.womentechmakers.com/communities)
 
 ### How to Contribute to this list
 * Help me figure out how to add social media badges for Meetup, Facebook, Twitter etc
