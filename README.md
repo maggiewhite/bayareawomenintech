@@ -9,9 +9,11 @@ All groups/events are free unless otherwise specified.
  * There are local (bay area) and general email lists
 * [CodeChix](http://codechix.org/portfolio/codechix-bay-area/)
  * Another email list for women in tech, they have bay area and Madison, WI chapters
+
 ### Facebook Groups
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)
  * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group is specifically women. There's also a Bay Area variant (linked above)
+
 ### Event-based groups
 * [Girls In Tech](http://sanfrancisco.girlsintech.org/)
  * Host ~$20-35 networking dinners once a month
@@ -30,12 +32,15 @@ All groups/events are free unless otherwise specified.
 * [San Francisco Feminist Book Club](http://www.meetup.com/SF-Feminist-Book-Club/)
  * Typically hosted at Double Union, the SF women's hackerspace
  * Once a month
+
 ### Other
 * [Double Union](https://doubleunion.tumblr.com/)
  * Women's hackerspace near the 22nd St Caltrain station, they occasionally have public events
 * [HackBright Academy](https://hackbrightacademy.com/)
  * Full-time coding boot camp for women
+
 ### How to Contribute to this list
 * Help me figure out how to add social media badges for Meetup, Facebook, Twitter etc
 * Add organizations to the list via issues or a pull request!
 * Add short, relevant bullet points (15 words or less) if you think a description is lacking
+* Make it "prettier", improve markdown formatting
