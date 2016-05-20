@@ -39,6 +39,15 @@ All groups/events are free unless otherwise specified.
 * [HackBright Academy](https://hackbrightacademy.com/)
  * Full-time coding boot camp for women
 
+### Sources/Other good lists
+* [Salesforce: Women In Tech Organizations You Should Know About!](https://developer.salesforce.com/blogs/engineering/2015/04/sfwitwednesday-women-tech-organizations-know.html)
+* [Femgineer: Organizations Supporting Women In Tech](http://femgineer.com/2013/12/organizations-supporting-women-in-tech/)
+* [Tech.co: 30+ Organizations for Women in Technology](http://tech.co/organizations-women-technology-2012-07)
+* [Huff Post: Top Five Women Tech Organizations](http://www.huffingtonpost.com/ivo-lukas/women-tech_b_1583348.html)
+* [Medium: List of over 80 Women in Tech Programs & Events in the Bay Area](https://medium.com/@karenchurch/list-of-over-80-women-in-tech-programs-events-in-the-bay-area-5a8d210de878#.3rc82dvsb)
+* [Geek Feminism: List of women in technology groups](http://geekfeminism.wikia.com/wiki/List_of_women_in_technology_groups)
+* [SkilledUp: Organizations that Empower Women in Technology](http://www.skilledup.com/articles/organizations-empower-women-technology)
+
 ### How to Contribute to this list
 * Help me figure out how to add social media badges for Meetup, Facebook, Twitter etc
 * Add organizations to the list via issues or a pull request!
