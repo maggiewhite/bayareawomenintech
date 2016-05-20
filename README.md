@@ -1,5 +1,5 @@
 # bayareawomenintech
-List of organizations for women in tech in the bay area
+List of organizations for women in tech accessible from the bay area
 
 All groups/events are free unless otherwise specified.
 
@@ -8,23 +8,26 @@ All groups/events are free unless otherwise specified.
  * Run by the same people who organize GHC (Anita Borg Institute)
  * There are local (bay area) and general email lists
  * Exclusively people who identify as women
-* [CodeChix](http://codechix.org/portfolio/codechix-bay-area/) [Events](http://www.eventbrite.com/o/codechix-bayarea-1321797263)
+* [CodeChix](http://codechix.org/portfolio/codechix-bay-area/)-[Events](http://www.eventbrite.com/o/codechix-bayarea-1321797263)
  * Exclusively people who identify as women
 * [DevChix](http://www.devchix.com/join-devchix/)
  * Exclusively people who identify as women
-* [LinuxChix](http://mailman.linuxchix.org/mailman/listinfo/) [Silicon Valley](http://www.linuxchix.org/content/silicon-valley-california)
+* [LinuxChix](http://mailman.linuxchix.org/mailman/listinfo/)-[Silicon Valley](http://www.linuxchix.org/content/silicon-valley-california)
  * Not exclusive to people who identify as women, but women-focused
+* [Global Tech Women](http://www.globaltechwomen.com/)
+ * Hosts a virtual book club and annual conference
 
 ### Facebook Groups
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)
- * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group is exclusively people who identify as women. There's also a Bay Area variant (linked above)
+ * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group is exclusively people who identify as women. There's also a Bay Area variant (linked above)
 
 ### Event-based groups
+#### General
 * [Girls In Tech](http://sanfrancisco.girlsintech.org/)
  * Host ~$20-35 networking dinners once a month
  * Also host free coworking sessions, networking and mentor events
  * Can sign up to volunteer if cost is an issue
-* Lean in Circle: [Women of the 415](http://leanincircles.org/circle/women-of-the-415) (SF) / [Palo Alto Lean In](http://leanincircles.org/circle/palo-alto-lean-in/)
+* Lean in Circle: [SF: Women of the 415](http://leanincircles.org/circle/women-of-the-415)/[Palo Alto Lean In](http://leanincircles.org/circle/palo-alto-lean-in/)
  * Based on Sheryl Sandberg's "Lean In" book
  * Have paid (~$10-20) workshops/talks relatively often
  * Also have mentor circles
@@ -37,7 +40,7 @@ All groups/events are free unless otherwise specified.
 * [San Francisco Feminist Book Club](http://www.meetup.com/SF-Feminist-Book-Club/)
  * Read and discuss books on feminism once a month
  * Typically hosted at Double Union, the SF women's hackerspace
-* Girls Develop It [SF](http://www.meetup.com/Girl-Develop-It-San-Francisco/) [San Jose](http://www.meetup.com/Girl-Develop-It-San-Jose/) [Oakland] (http://www.meetup.com/Girl-Develop-It-Oakland/)
+* Girls Develop It [SF](http://www.meetup.com/Girl-Develop-It-San-Francisco/)/[San Jose](http://www.meetup.com/Girl-Develop-It-San-Jose/) [Oakland] (http://www.meetup.com/Girl-Develop-It-Oakland/)
  * Short workshops to help women learn or brush up on technical skills
  * SF and Oakland chapters are very active
 * [Bay Area Girl Geek Dinners](http://bayareagirlgeekdinners.com/)
@@ -45,11 +48,29 @@ All groups/events are free unless otherwise specified.
 * Anita Borg Institute [Silicon Valley](https://local.anitaborg.org/groups/abi-silicon-valley/)
  * "ABI.Silicon Valley will host regular events and we are always looking for volunteer and contributors to our blogs and forums."
  * Not very active from what I can see
+* Women 2.0 [SF](http://women2.com/city-meetup/san-francisco/)/[Silicon Valley](http://women2.com/city-meetup/silicon-valley/)
+ * Women 2.0 City Meetup creates an inclusive community for anyone working, innovating, or investing in technology. Women 2.0 City Meetup is open to both women and men.
+* Webgrrls [SF](https://www.webgrrls.com/sanfrancisco-ca/)/[Silicon Valley](https://www.webgrrls.com/siliconvalley-ca/)
+ * Doesn't appear to be very active
 * [She++](http://www.sheplusplus.org/) - Palo Alto
  * Stanford student organization for women in tech that occasionally hosts public events, most notably the annual She++ conference
-* PyLadies [SF](http://www.meetup.com/pyladiessf/) [Silicon Valley](http://www.meetup.com/PyLadies-Silicon-Valley/)
+* [She's Geeky](http://shesgeeky.org/bay-area-2016/)
+ * Yearly unconference for women in tech hosted in the bay area
+ * ~$75-150 registration fee
+* [Women Who Tech](http://womenwhotech.com/about) - SF
+ * Hosts ~yearly Telesummit and startup challenge
+* Women in Technology International [SF](http://www.witi.com/networks/sanfrancisco/)/[Silicon Valley](http://www.witi.com/networks/siliconvalley/)
+ * ~$100-200/year women in tech organization
+
+#### Tech specific
+* PyLadies [SF](http://www.meetup.com/pyladiessf/)/[Silicon Valley](http://www.meetup.com/PyLadies-Silicon-Valley/)
  * Female Python developers get together regularly to hack on projects and help each other through the process
-* 
+* [Railsbridge](https://www.bridgetroll.org/) - SF
+ * Not a women in tech group, but regularly hosts Ruby on Rails workshops for women
+* [Women in Wireless](http://www.womeninwireless.org/p/contact.html)-[SF](http://sanfrancisco.womeninwireless.org/)
+ * To connect, inspire, and empower female leaders in the mobile and digital space. 
+* [Women in Hardware](http://www.womeninhardware.io/) - SF
+ * Women in Hardware helps connect female founders, engineers, investors, manufacturers, and marketers building the future of connected hardware. We are 500+ badass women helping other women be even more badass in SF, NYC, Boston and beyond.
 
 ### Volunteer Opportunities
 * [Girls Who Code](http://girlswhocode.com/get-involved/)
@@ -66,13 +87,17 @@ All groups/events are free unless otherwise specified.
 * [techbridge](http://www.techbridgegirls.org/index.php?id=55) - Oakland, San Jose
  * An after school program that involves  families, role models, school districts and partners to help girls from undeserved communities learn about STEM
 
-### Other
-* [Double Union](https://doubleunion.tumblr.com/)
- * Women's hackerspace near the 22nd St Caltrain station, they occasionally have public events
+### Education/Boot Camps
 * [HackBright Academy](https://hackbrightacademy.com/)
  * 10 week full-time python coding boot camp for women
 * [mothercoders](http://www.mothercoders.org/) - SF and Berkeley/Oakland
  * A tech orientation program designed for women with kids
+* [skillcrush](http://skillcrush.com/)
+ * Online tech bootcamp geared towards women
+
+### Other
+* [Double Union](https://doubleunion.tumblr.com/)
+ * Women's hackerspace near the 22nd St Caltrain station, they occasionally have public events
 
 ### Sources/Other good lists
 * [Salesforce: Women In Tech Organizations You Should Know About!](https://developer.salesforce.com/blogs/engineering/2015/04/sfwitwednesday-women-tech-organizations-know.html)
