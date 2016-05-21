@@ -75,8 +75,6 @@ All groups/events are free unless otherwise specified.
  * Not very active from what I can see
 * Women 2.0 [SF](http://women2.com/city-meetup/san-francisco/)/[Silicon Valley](http://women2.com/city-meetup/silicon-valley/)
  * Women 2.0 City Meetup creates an inclusive community for anyone working, innovating, or investing in technology. Women 2.0 City Meetup is open to both women and men.
-* Webgrrls [SF](https://www.webgrrls.com/sanfrancisco-ca/)/[Silicon Valley](https://www.webgrrls.com/siliconvalley-ca/)
- * Doesn't appear to be very active
 * [She++](http://www.sheplusplus.org/) - Palo Alto
  * Stanford student organization for women in tech that occasionally hosts public events, most notably the annual She++ conference
 * [She's Geeky](http://shesgeeky.org/bay-area-2016/)
@@ -84,26 +82,27 @@ All groups/events are free unless otherwise specified.
  * ~$75-150 registration fee
 * [Women Who Tech](http://womenwhotech.com/about) - SF [Facebook](https://www.facebook.com/groups/254758964539368/?ref=br_rs)
  * Hosts ~yearly Telesummit and startup challenge
-* Codess [SF](http://www.codess.net/events/san-francisco/)
- * Doesn't appear to be very active
 * Lesbians who Tech [SF](http://lesbianswhotech.org/events/city/san-francisco/)/[Silicon Valley](http://lesbianswhotech.org/events/city/silicon-valley/)
 * [HealthTechWomen](https://www.meetup.com/HealthTechWomen/) - SF
 * Levo - [Bay Area](https://www.levo.com/locallevo/bay-area)
  * Mentorship program with events
-* [Femgineers](http://www.meetup.com/Femgineers/) - SF
- * Relatively infrequent meetups
 * [Women Techmakers](https://www.womentechmakers.com/membership) - Silicon Valley
 * [Glassbreakers](https://www.glassbreakers.co/)
  * Online professional women mentorship platform
-* [SheSays](http://weareshesays.com/)
- * Theoretically hosts events in SF
 * Write/Speak/Code [SF & Bay Area](http://www.meetup.com/WriteSpeakCode-SFBay/)
 * [Airbnb Taking Flight](http://airbnb.io/events/taking-flight/)
+ * Monthly tech talks at Airbnb
 * [Women Catalysts](http://www.womencatalysts.com/) - [SF](http://www.womencatalysts.com/events/#sfevents)
-* [Passion Projects](http://passion-projects.is/) - SF
- * Monthly talks by women in tech, seems to be inactive
 * [The Expat Woman](https://www.facebook.com/THEEXPATWOMAN/events)
  * For international women in the bay area
+* [Passion Projects](http://passion-projects.is/) - SF
+ * Monthly talks by women in tech, seems to be inactive
+* [Femgineers](http://www.meetup.com/Femgineers/) - SF
+ * Relatively infrequent meetups
+* [SheSays](http://weareshesays.com/)
+ * Last hosted an event in SF in Jan 2015
+* Codess [SF](http://www.codess.net/events/san-francisco/)
+ * Doesn't appear to be very active
 
 <a name="techevents"/>
 #### Tech specific
@@ -115,21 +114,21 @@ All groups/events are free unless otherwise specified.
  * To connect, inspire, and empower female leaders in the mobile and digital space. 
 * [Women in Hardware](http://www.womeninhardware.io/) - SF
  * Women in Hardware helps connect female founders, engineers, investors, manufacturers, and marketers building the future of connected hardware. We are 500+ badass women helping other women be even more badass in SF, NYC, Boston and beyond.
-* [Data Driven Women](http://www.meetup.com/Data-Driven-Women/) - SF
- * Seemingly stagnant meetup group for women in data analysis
 * Lean In [SF - UX](http://leanincircles.org/circle/lean-in-ux)
 * [Duchess SF](http://www.meetup.com/Duchess-SF-Bay-Area/)
  * Java and Salesforce group
+* [Bay Area Women in Machine Learning & Data Science](http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)
+* [Django Girls](https://djangogirls.org/sf1/)
+ * Most recently held an event in 2015
+* [Data Driven Women](http://www.meetup.com/Data-Driven-Women/) - SF
+ * Seemingly stagnant meetup group for women in data analysis
 * Ladies that UX [SF](http://ladiesthatux.com/san-francisco/)
  * Can't tell if this is active
 * Rails Girls [SF](http://railsgirls.com/sanfrancisco)
  * Annual 2-day workshop on Ruby on Rails for women, last hosted in 2014
-* [Silicon Valley Women in Robotics](https://svrobo.org/membership/women-in-robotics/)
 * [Women in Security and Privacy](https://www.wisporg.com/)
  * Based out of SF, don't see anything immediately actionable outside of joining the newsletter
-* [Django Girls](https://djangogirls.org/sf1/)
- * Most recently held an event in 2015
-* [Bay Area Women in Machine Learning & Data Science](http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)
+* [Silicon Valley Women in Robotics](https://svrobo.org/membership/women-in-robotics/)
 
 <a name="volunteer"/>
 ### Volunteer Opportunities
@@ -183,6 +182,9 @@ All groups/events are free unless otherwise specified.
  * ~$350/year, geared towards women 5-15 years into their careers
 * [TechLiminal](https://techliminal.com/)
  * Intro tech workshops (not free), membership $25/month
+* Webgrrls [SF](https://www.webgrrls.com/sanfrancisco-ca/)/[Silicon Valley](https://www.webgrrls.com/siliconvalley-ca/)
+ * Doesn't appear to be very active
+ * $55-150/year
 
 <a name="education"/>
 ### Education/Boot Camps (not free)
