@@ -25,6 +25,7 @@ All groups/events are free unless otherwise specified.
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)
  * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group is exclusively people who identify as women. There's also a Bay Area variant (linked above)
 * [Russian-Speaking Women in Tech Silicon Valley](https://www.facebook.com/groups/RussianWomenInTech)
+* [EdTechWomen](https://www.facebook.com/groups/885534781541043/) - [SF](https://www.facebook.com/groups/1062156953802924/)
 
 ### Event-based groups
 #### General
