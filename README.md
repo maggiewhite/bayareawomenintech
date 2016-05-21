@@ -19,6 +19,7 @@ All groups/events are free unless otherwise specified.
 * [Tech Ladymafia](http://techladymafia.com/jointheladymafia)
 * [XX-UX](https://plus.google.com/communities/108691399738995815547)
  * Women in UX
+* [Women & Mozilla](http://lists.womoz.org/mailman/listinfo/womoz)
 
 ### Facebook Groups
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)
@@ -125,6 +126,8 @@ All groups/events are free unless otherwise specified.
  * Based out of SF, don't see anything immediately actionable outside of joining the newsletter
 * [Watermark](https://www.wearewatermark.org/)
  * Yet another paid professional women's networking organization ($250-1000/year)
+* [Django Girls](https://djangogirls.org/sf1/)
+ * Most recently held an event in 2015
 
 ### Volunteer Opportunities
 * [Girls Who Code](http://girlswhocode.com/get-involved/)
@@ -165,6 +168,8 @@ All groups/events are free unless otherwise specified.
 ### Other
 * [Double Union](https://doubleunion.tumblr.com/)
  * Women's hackerspace near the 22nd St Caltrain station, they occasionally have public events
+* [LOL Oakland Makerspace](https://oaklandmakerspace.wordpress.com/)
+ * Not women-specific, but "a people-of-color-led, gender-diverse, queer and trans inclusive hacker/maker space in East Oakland"
 
 ### Sources/Other good lists
 * [Salesforce: Women In Tech Organizations You Should Know About!](https://developer.salesforce.com/blogs/engineering/2015/04/sfwitwednesday-women-tech-organizations-know.html)
