@@ -43,6 +43,7 @@ All groups/events are free unless otherwise specified.
 * Women of Color in Tech - [Bay Area](https://www.facebook.com/groups/WOCinbay/?ref=br_rs)
 * [Women in Gaming](https://www.facebook.com/groups/396715327030958/?ref=br_rs)
 * [San Francisco Women in Tech](https://www.facebook.com/groups/201493976856135)
+* WOMEN GET IT DONE - [SF](https://www.facebook.com/groups/womengetitdone/)
 
 <a name="events"/>
 ### Event-based groups
