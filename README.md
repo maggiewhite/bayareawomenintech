@@ -12,8 +12,8 @@ All groups/events are free unless otherwise specified.
 * [Paid Professional Groups](#professionals)
 * [Education/Boot Camps](#education)
 * [Other](#other)
-* [Sources/Other good lists](#sources)
 * [How to Contribute to this list](#contribute)
+* [Sources/Other good lists](#sources)
 
 <a name="emaillists"/>
 ### Email Lists
@@ -40,6 +40,9 @@ All groups/events are free unless otherwise specified.
  * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group is exclusively people who identify as women. There's also a Bay Area variant (linked above)
 * [Russian-Speaking Women in Tech Silicon Valley](https://www.facebook.com/groups/RussianWomenInTech)
 * [EdTechWomen](https://www.facebook.com/groups/885534781541043/) - [SF](https://www.facebook.com/groups/1062156953802924/)
+* Women of Color in Tech - [Bay Area](https://www.facebook.com/groups/WOCinbay/?ref=br_rs)
+* [Women in Gaming](https://www.facebook.com/groups/396715327030958/?ref=br_rs)
+* [San Francisco Women in Tech](https://www.facebook.com/groups/201493976856135)
 
 <a name="events"/>
 ### Event-based groups
@@ -53,7 +56,7 @@ All groups/events are free unless otherwise specified.
  * Based on Sheryl Sandberg's "Lean In" book
  * Have paid (~$10-20) workshops/talks relatively often
  * Also have mentor circles
-* Women Who Code [SF](http://www.meetup.com/Women-Who-Code-SF/)/[Silicon Valley](http://www.meetup.com/Women-Who-Code-Silicon-Valley/) [Facebook](https://www.facebook.com/groups/womenwhocodesiliconvalley/?ref=browser)
+* Women Who Code [SF](http://www.meetup.com/Women-Who-Code-SF/)/[Silicon Valley](http://www.meetup.com/Women-Who-Code-Silicon-Valley/)/[East Bay](http://www.meetup.com/Women-Who-Code-East-Bay/) [Facebook](https://www.facebook.com/groups/womenwhocodesiliconvalley/?ref=browser)
   * A pretty big organization that hosts lots of coding study sessions and pair programming events, there are two major chapters in the bay area: SF and Silicon Valley
   * Most of their events are on Meetup, but the Silicon Valley fb group is pretty active
 * [Bay Area Nerd Girls](http://www.meetup.com/BAnerdGirls/)
@@ -62,7 +65,7 @@ All groups/events are free unless otherwise specified.
 * [San Francisco Feminist Book Club](http://www.meetup.com/SF-Feminist-Book-Club/)
  * Read and discuss books on feminism once a month
  * Typically hosted at Double Union, the SF women's hackerspace
-* Girls Develop It [SF](http://www.meetup.com/Girl-Develop-It-San-Francisco/)/[San Jose](http://www.meetup.com/Girl-Develop-It-San-Jose/) [Oakland] (http://www.meetup.com/Girl-Develop-It-Oakland/)
+* Girl Develop It [SF](http://www.meetup.com/Girl-Develop-It-San-Francisco/)/[San Jose](http://www.meetup.com/Girl-Develop-It-San-Jose/)/[Oakland](http://www.meetup.com/Girl-Develop-It-Oakland/)
  * Short workshops to help women learn or brush up on technical skills
  * SF and Oakland chapters are very active
 * [Bay Area Girl Geek Dinners](http://bayareagirlgeekdinners.com/)
@@ -79,7 +82,7 @@ All groups/events are free unless otherwise specified.
 * [She's Geeky](http://shesgeeky.org/bay-area-2016/)
  * Yearly unconference for women in tech hosted in the bay area
  * ~$75-150 registration fee
-* [Women Who Tech](http://womenwhotech.com/about) - SF
+* [Women Who Tech](http://womenwhotech.com/about) - SF [Facebook](https://www.facebook.com/groups/254758964539368/?ref=br_rs)
  * Hosts ~yearly Telesummit and startup challenge
 * Codess [SF](http://www.codess.net/events/san-francisco/)
  * Doesn't appear to be very active
@@ -96,7 +99,11 @@ All groups/events are free unless otherwise specified.
  * Theoretically hosts events in SF
 * Write/Speak/Code [SF & Bay Area](http://www.meetup.com/WriteSpeakCode-SFBay/)
 * [Airbnb Taking Flight](http://airbnb.io/events/taking-flight/)
-* [Bay Area Women in Machine Learning & Data Science](http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)
+* [Women Catalysts](http://www.womencatalysts.com/) - [SF](http://www.womencatalysts.com/events/#sfevents)
+* [Passion Projects](http://passion-projects.is/) - SF
+ * Monthly talks by women in tech, seems to be inactive
+* [The Expat Woman](https://www.facebook.com/THEEXPATWOMAN/events)
+ * For international women in the bay area
 
 <a name="techevents"/>
 #### Tech specific
@@ -115,8 +122,6 @@ All groups/events are free unless otherwise specified.
  * Java and Salesforce group
 * Ladies that UX [SF](http://ladiesthatux.com/san-francisco/)
  * Can't tell if this is active
-* [Passion Projects](http://passion-projects.is/) - SF
- * Monthly talks by women in tech, seems to be inactive
 * Rails Girls [SF](http://railsgirls.com/sanfrancisco)
  * Annual 2-day workshop on Ruby on Rails for women, last hosted in 2014
 * [Silicon Valley Women in Robotics](https://svrobo.org/membership/women-in-robotics/)
@@ -124,6 +129,7 @@ All groups/events are free unless otherwise specified.
  * Based out of SF, don't see anything immediately actionable outside of joining the newsletter
 * [Django Girls](https://djangogirls.org/sf1/)
  * Most recently held an event in 2015
+* [Bay Area Women in Machine Learning & Data Science](http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)
 
 <a name="volunteer"/>
 ### Volunteer Opportunities
@@ -164,7 +170,6 @@ All groups/events are free unless otherwise specified.
  * ~$150/year hosts events in the Bay Area
 * Society of Women Engineers - San Jose, Palo Alto, SF and East Bay
  * Paid professional women in engineering organzation, mostly geared towards college students
-* [Women Catalysts](http://www.womencatalysts.com/) - [SF](http://www.womencatalysts.com/events/#sfevents)
 * IEEE Women in Engineering [Santa Clara Valley](http://ieee-wie-scv.org/)
  * Need to be a member of IEEE to join
 * Ellevate - [SF](https://www.ellevatenetwork.com/chapters/56-usa-san-francisco), [Silicon Valley](https://www.ellevatenetwork.com/chapters/68-usa-silicon-valley)
@@ -195,6 +200,13 @@ All groups/events are free unless otherwise specified.
 * [LOL Oakland Makerspace](https://oaklandmakerspace.wordpress.com/)
  * Not women-specific, but "a people-of-color-led, gender-diverse, queer and trans inclusive hacker/maker space in East Oakland"
 
+<a name="contribute"/>
+### How to Contribute to this list
+* Help me figure out how to add social media badges for Meetup, Facebook, Twitter etc
+* Add organizations to the list via issues or a pull request!
+* Add short, relevant bullet points (15 words or less) if you think a description is lacking
+* Make it "prettier", improve markdown formatting
+
 <a name="sources"/>
 ### Sources/Other good lists
 * [Salesforce: Women In Tech Organizations You Should Know About!](https://developer.salesforce.com/blogs/engineering/2015/04/sfwitwednesday-women-tech-organizations-know.html)
@@ -205,10 +217,3 @@ All groups/events are free unless otherwise specified.
 * [Geek Feminism: List of women in technology groups](http://geekfeminism.wikia.com/wiki/List_of_women_in_technology_groups)
 * [SkilledUp: Organizations that Empower Women in Technology](http://www.skilledup.com/articles/organizations-empower-women-technology)
 * [Google: Women Techmakers Communities](https://www.womentechmakers.com/communities)
-
-<a name="contribute"/>
-### How to Contribute to this list
-* Help me figure out how to add social media badges for Meetup, Facebook, Twitter etc
-* Add organizations to the list via issues or a pull request!
-* Add short, relevant bullet points (15 words or less) if you think a description is lacking
-* Make it "prettier", improve markdown formatting
