@@ -83,7 +83,7 @@ All groups/events are free unless otherwise specified.
  * ~$75-150 registration fee
 * [Women Who Tech](http://womenwhotech.com/about) - SF [Facebook](https://www.facebook.com/groups/254758964539368/?ref=br_rs)
  * Hosts ~yearly Telesummit and startup challenge
-* Lesbians who Tech [SF](http://lesbianswhotech.org/events/city/san-francisco/)/[Silicon Valley](http://lesbianswhotech.org/events/city/silicon-valley/)
+* Lesbians who Tech [Oakland](http://lesbianswhotech.org/events/city/east-bay/)/[SF](http://lesbianswhotech.org/events/city/san-francisco/)/[Silicon Valley](http://lesbianswhotech.org/events/city/silicon-valley/)
 * [HealthTechWomen](https://www.meetup.com/HealthTechWomen/) - SF
 * Levo - [Bay Area](https://www.levo.com/locallevo/bay-area)
  * Mentorship program with events
