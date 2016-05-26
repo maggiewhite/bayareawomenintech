@@ -1,6 +1,7 @@
 # bayareawomenintech
-List of organizations for women in tech accessible from the bay area
-All groups/events are free unless otherwise specified.
+List of organizations for women in tech accessible from the bay area.
+<br>All groups/events are free unless otherwise specified.
+<br><strong>*</strong> Indicates the org requires members to identify as women
 
 ##### Table of Contents  
 * [Email Lists](#emaillists)
@@ -17,14 +18,11 @@ All groups/events are free unless otherwise specified.
 
 <a name="emaillists"/>
 ### Email Lists
-* [Systers](http://anitaborg.org/get-involved/systers/)
+* <strong>*</strong>[Systers](http://anitaborg.org/get-involved/systers/)
  * Run by the same people who organize GHC (Anita Borg Institute)
  * There are local (bay area) and general email lists
- * Exclusively people who identify as women
-* [CodeChix](http://codechix.org/portfolio/codechix-bay-area/)-[Events](http://www.eventbrite.com/o/codechix-bayarea-1321797263)
- * Exclusively people who identify as women
-* [DevChix](http://www.devchix.com/join-devchix/)
- * Exclusively people who identify as women
+* <strong>*</strong>[CodeChix](http://codechix.org/portfolio/codechix-bay-area/)-[Events](http://www.eventbrite.com/o/codechix-bayarea-1321797263)
+* <strong>*</strong>[DevChix](http://www.devchix.com/join-devchix/)
 * [LinuxChix](http://mailman.linuxchix.org/mailman/listinfo/)-[Silicon Valley](http://www.linuxchix.org/content/silicon-valley-california)
  * Not exclusive to people who identify as women, but women-focused
 * [Global Tech Women](http://www.globaltechwomen.com/)
@@ -37,7 +35,7 @@ All groups/events are free unless otherwise specified.
 <a name="facebook"/>
 ### Facebook Groups
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)
- * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group is exclusively people who identify as women. There's also a Bay Area variant (linked above)
+ * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group's MO is to help close the gender gap in hackathons. There's also a Bay Area variant (linked above)
 * [Russian-Speaking Women in Tech Silicon Valley](https://www.facebook.com/groups/RussianWomenInTech)
 * [EdTechWomen](https://www.facebook.com/groups/885534781541043/) - [SF](https://www.facebook.com/groups/1062156953802924/)
 * Women of Color in Tech - [Bay Area](https://www.facebook.com/groups/WOCinbay/?ref=br_rs)
