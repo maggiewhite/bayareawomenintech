@@ -132,7 +132,7 @@ List of organizations for women in tech accessible from the bay area.
 <a name="volunteer"/>
 ### Volunteer Opportunities
 * [Girls Who Code](http://girlswhocode.com/get-involved/)
- * A 7 week immersion program for high school sophomore and junior girls who are interested in learning to code
+ * A 7 week summer immersion program for high school sophomore and junior girls who are interested in learning to code
  * Clubs are all over the bay area
 * [Black Girls Code](http://www.blackgirlscode.com/volunteer-signup.html)
  * Getting African American girls interested in tech via workshops
