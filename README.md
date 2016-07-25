@@ -157,6 +157,9 @@ List of organizations for women in tech accessible from the bay area.
  * Not specific for girls, but has received awards for their encouragement of diversity
  * Volunteer as a mentor
 * [Yearup](http://www.yearup.org/get-involved/mentor/?location=national-us/)
+* [Girls Teaching Girls to Code](http://www.girlsteachinggirlstocode.org)
+ * Stanford women in technical fields teach and inspire Bay Area high school girls to explore CS and engineering
+ * High school students can apply for the liaison program to work with GTGTC to organize events in their communities
 
 <a name="professionals"/>
 ### Paid Networking Groups
