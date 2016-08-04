@@ -117,6 +117,7 @@ List of organizations for women in tech accessible from the bay area.
 * [Duchess SF](http://www.meetup.com/Duchess-SF-Bay-Area/)
  * Java and Salesforce group
 * [Bay Area Women in Machine Learning & Data Science](http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)
+ * This is a meetup group for women interested in Machine Learning and Data Science and have chapters in a number of cities. We meet to discuss machine learning and data science in an informal setting with the purpose of building a community around women in these fields.  To join our Slack group, send an email to slack@wimlds.org (women only).
 * [Django Girls](https://djangogirls.org/sf1/)
  * Most recently held an event in 2015
 * [Data Driven Women](http://www.meetup.com/Data-Driven-Women/) - SF
