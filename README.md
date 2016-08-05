@@ -53,7 +53,8 @@ List of organizations for women in tech accessible from the bay area.
  * Can sign up to volunteer if cost is an issue
 * Lean in Circle: [SF: Women of the 415](http://leanincircles.org/circle/women-of-the-415)/[Palo Alto Lean In](http://leanincircles.org/circle/palo-alto-lean-in/)
  * Based on Sheryl Sandberg's "Lean In" book
- * Have paid (~$10-20) workshops/talks relatively often
+ * SF chapter: Has paid (~$10-20) workshops/talks relatively often
+ * Palo Alto chapter typically hosts free meetups
  * Also have mentor circles
 * Women Who Code [SF](http://www.meetup.com/Women-Who-Code-SF/)/[Silicon Valley](http://www.meetup.com/Women-Who-Code-Silicon-Valley/)/[East Bay](http://www.meetup.com/Women-Who-Code-East-Bay/) [Facebook](https://www.facebook.com/groups/womenwhocodesiliconvalley/?ref=browser)
   * A pretty big organization that hosts lots of coding study sessions and pair programming events, there are two major chapters in the bay area: SF and Silicon Valley
