@@ -91,7 +91,10 @@ List of organizations for women in tech accessible from the bay area.
 * Write/Speak/Code [SF & Bay Area](http://www.meetup.com/WriteSpeakCode-SFBay/)
 * [Airbnb Taking Flight](http://airbnb.io/events/taking-flight/)
  * Monthly tech talks at Airbnb
+ * Not women specific, geared towards "underrepresented groups in tech"
 * [Women Catalysts](http://www.womencatalysts.com/) - [SF](http://www.womencatalysts.com/events/#sfevents)
+ * Not tech-specific, events cost $0-15 and are hosted by a startup that provides job coaching for women
+ * They host a variety of events 3-4 times a month
 * [The Expat Woman](https://www.facebook.com/THEEXPATWOMAN/events)
  * For international women in the bay area
 * [Passion Projects](http://passion-projects.is/) - SF
@@ -107,16 +110,22 @@ List of organizations for women in tech accessible from the bay area.
 #### Tech specific
 * PyLadies [SF](http://www.meetup.com/pyladiessf/)/[Silicon Valley](http://www.meetup.com/PyLadies-Silicon-Valley/)
  * Female Python developers get together regularly to hack on projects and help each other through the process
+ * SF branch has two workshops a week, SV branch has 2 workshops a month
 * [Railsbridge](https://www.bridgetroll.org/) - SF
  * Not a women in tech group, but regularly hosts Ruby on Rails workshops for women
-* [Women in Wireless](http://www.womeninwireless.org/p/contact.html)-[SF](http://sanfrancisco.womeninwireless.org/)
+* [Women in Wireless](http://www.womeninwireless.org/)-[SF](http://sanfrancisco.womeninwireless.org/)
+ * Hosts talk + networking style events every 2-3 months.
  * To connect, inspire, and empower female leaders in the mobile and digital space. 
 * [Women in Hardware](http://www.womeninhardware.io/) - SF
+ * Hosts talk + networking style events every 1-2 months. Occasionally hosts factory tours.
  * Women in Hardware helps connect female founders, engineers, investors, manufacturers, and marketers building the future of connected hardware. We are 500+ badass women helping other women be even more badass in SF, NYC, Boston and beyond.
 * Lean In [SF - UX](http://leanincircles.org/circle/lean-in-ux)
+ * Events are not public - determining their frequency + content currently
 * [Duchess SF](http://www.meetup.com/Duchess-SF-Bay-Area/)
  * Java and Salesforce group
+ * Last hosted event was in January, seems to be inactive
 * [Bay Area Women in Machine Learning & Data Science](http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)
+ * Meets every 1-3 months in a speaker + networking format in various parts of the bay area
  * This is a meetup group for women interested in Machine Learning and Data Science and have chapters in a number of cities. We meet to discuss machine learning and data science in an informal setting with the purpose of building a community around women in these fields.  To join our Slack group, send an email to slack@wimlds.org (women only).
 * [Django Girls](https://djangogirls.org/sf1/)
  * Most recently held an event in 2015
