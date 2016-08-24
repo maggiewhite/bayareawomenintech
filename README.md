@@ -47,7 +47,7 @@ List of organizations for women in tech accessible from the bay area.
 ### Event-based groups
 <a name="generalevents"/>
 #### General
-* [Girls In Tech](http://sanfrancisco.girlsintech.org/)
+* [Girls In Tech](http://girlsintech.org/) - [SF](https://www.facebook.com/GirlsInTech.SanFrancisco/events)
  * Host ~$20-35 networking dinners once a month
  * Also host free coworking sessions, networking and mentor events
  * Can sign up to volunteer if cost is an issue
