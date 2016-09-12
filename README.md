@@ -28,6 +28,7 @@ List of organizations for women in tech accessible from the bay area.
 * [Global Tech Women](http://www.globaltechwomen.com/)
  * Hosts a virtual book club and annual conference
 * [Tech Ladymafia](http://techladymafia.com/jointheladymafia)
+ * Have personally send the email mod several emails, no response. Possibly inactive?
 * [XX-UX](https://plus.google.com/communities/108691399738995815547)
  * Women in UX
 * [Women & Mozilla](http://lists.womoz.org/mailman/listinfo/womoz)
@@ -57,11 +58,11 @@ List of organizations for women in tech accessible from the bay area.
  * Palo Alto chapter typically hosts free meetups
  * Also have mentor circles
 * Women Who Code [SF](http://www.meetup.com/Women-Who-Code-SF/)/[Silicon Valley](http://www.meetup.com/Women-Who-Code-Silicon-Valley/)/[East Bay](http://www.meetup.com/Women-Who-Code-East-Bay/) [Facebook](https://www.facebook.com/groups/womenwhocodesiliconvalley/?ref=browser)
-  * A pretty big organization that hosts lots of coding study sessions and pair programming events, there are two major chapters in the bay area: SF and Silicon Valley
-  * Most of their events are on Meetup, but the Silicon Valley fb group is pretty active
+ * A pretty big organization that hosts lots of coding study sessions and pair programming events, there are two major chapters in the bay area: SF and Silicon Valley
+ * Most of their events are on Meetup, but the Silicon Valley fb group is pretty active
 * [Bay Area Nerd Girls](http://www.meetup.com/BAnerdGirls/)
-  * Social group for "nerd girls"
-  * Events ~3-4x a month
+ * Social group for "nerd girls"
+ * Events ~3-4x a month
 * [San Francisco Feminist Book Club](http://www.meetup.com/SF-Feminist-Book-Club/)
  * Read and discuss books on feminism once a month
  * Typically hosted at Double Union, the SF women's hackerspace
@@ -77,6 +78,8 @@ List of organizations for women in tech accessible from the bay area.
  * Women 2.0 City Meetup creates an inclusive community for anyone working, innovating, or investing in technology. Women 2.0 City Meetup is open to both women and men.
 * [She++](http://www.sheplusplus.org/) - Palo Alto
  * Stanford student organization for women in tech that occasionally hosts public events, most notably the annual She++ conference
+* [Spectra](http://sospectra.com/)
+ * Holds annual hackathons in July, and occasional workshop days (free)
 * [She's Geeky](http://shesgeeky.org/bay-area-2016/)
  * Yearly unconference for women in tech hosted in the bay area
  * ~$75-150 registration fee
@@ -120,14 +123,17 @@ List of organizations for women in tech accessible from the bay area.
 * [Women in Hardware](http://www.womeninhardware.io/) - SF
  * Hosts talk + networking style events every 1-2 months. Occasionally hosts factory tours.
  * Women in Hardware helps connect female founders, engineers, investors, manufacturers, and marketers building the future of connected hardware. We are 500+ badass women helping other women be even more badass in SF, NYC, Boston and beyond.
-* Lean In [SF - UX](http://leanincircles.org/circle/lean-in-ux)
- * Events are not public - determining their frequency + content currently
-* [Duchess SF](http://www.meetup.com/Duchess-SF-Bay-Area/)
- * Java and Salesforce group
- * Last hosted event was in January, seems to be inactive
 * [Bay Area Women in Machine Learning & Data Science](http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)
  * Meets every 1-3 months in a speaker + networking format in various parts of the bay area
  * This is a meetup group for women interested in Machine Learning and Data Science and have chapters in a number of cities. We meet to discuss machine learning and data science in an informal setting with the purpose of building a community around women in these fields.  To join our Slack group, send an email to slack@wimlds.org (women only).
+* [Women in IoT](http://www.meetup.com/womeniniot/)
+ * Hosting their second event ever on September 22, 2016 (talk + networking)
+ * Seems to always be hosted at Neustar in SF
+* Lean In [SF - UX](http://leanincircles.org/circle/lean-in-ux)
+ * Inactive/no events planned
+* [Duchess SF](http://www.meetup.com/Duchess-SF-Bay-Area/)
+ * Java and Salesforce group
+ * Last hosted event was in January, seems to be inactive
 * [Django Girls](https://djangogirls.org/sf1/)
  * Most recently held an event in 2015
 * [Data Driven Women](http://www.meetup.com/Data-Driven-Women/) - SF
@@ -139,6 +145,7 @@ List of organizations for women in tech accessible from the bay area.
 * [Women in Security and Privacy](https://www.wisporg.com/)
  * Based out of SF, don't see anything immediately actionable outside of joining the newsletter
 * [Silicon Valley Women in Robotics](https://svrobo.org/membership/women-in-robotics/)
+ * Doesn't host events specifically for women in robotics, but if you join you can "steer the agenda" of Silicon Valley Robotics
 
 <a name="volunteer"/>
 ### Volunteer Opportunities
@@ -168,6 +175,8 @@ List of organizations for women in tech accessible from the bay area.
  * Not specific for girls, but has received awards for their encouragement of diversity
  * Volunteer as a mentor
 * [Yearup](http://www.yearup.org/get-involved/mentor/?location=national-us/)
+ * Mentor (8-month commitment) or tutor a student age 18-24 from a diverse urban background
+ * For a shorter term commitment, be a guest speaker to a class
 * [Girls Teaching Girls to Code](http://www.girlsteachinggirlstocode.org)
  * Stanford women in technical fields teach and inspire Bay Area high school girls to explore CS and engineering
  * High school students can apply for the liaison program to work with GTGTC to organize events in their communities
