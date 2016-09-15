@@ -76,8 +76,6 @@ List of organizations for women in tech accessible from the bay area.
  * Not very active from what I can see
 * Women 2.0 [SF](http://women2.com/city-meetup/san-francisco/)/[Silicon Valley](http://women2.com/city-meetup/silicon-valley/)
  * Women 2.0 City Meetup creates an inclusive community for anyone working, innovating, or investing in technology. Women 2.0 City Meetup is open to both women and men.
-* [She++](http://www.sheplusplus.org/) - Palo Alto
- * Stanford student organization for women in tech that occasionally hosts public events, most notably the annual She++ conference
 * [Spectra](http://sospectra.com/)
  * Holds annual hackathons in July, and occasional workshop days (free)
 * [She's Geeky](http://shesgeeky.org/bay-area-2016/)
@@ -170,6 +168,9 @@ List of organizations for women in tech accessible from the bay area.
  * Plan and host a mentorship program for K-12 girls interested in computing (not location specific)
 * [code.org](https://code.org/volunteer)
  * Teachers would love to have somebody passionate about computer science education who can help in the classroom, or for somebody who can inspire their students by talking about the breadth of possibilities with computer science (which could be done through a video chat).
+* [She++](http://www.sheplusplus.org/) - Palo Alto
+ * Stanford student organization for women in tech that occasionally hosts public events, most notably the annual She++ conference
+ * College students or recent grads can sign up to be [she++ ambassadors](http://sheplusplus.com/ambassadors/) or [mentors](http://sheplusplus.com/include/)
 * [Dare 2B Digital](http://www.dare2bdigitalconference.com/ic-mentor-application/)
  * Yearly conference for girls and boys grades 7-10 hosted in February
  * Not specific for girls, but has received awards for their encouragement of diversity
