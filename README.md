@@ -87,6 +87,8 @@ List of organizations for women in tech accessible from the bay area.
  * SF and Oakland chapters are very active
 * [Bay Area Girl Geek Dinners](http://bayareagirlgeekdinners.com/)
  * Donation-based bimonthly dinners hosted by companies in the bay area
+* [Geek Girl Brunch](http://geekgirlbrunch.com/join/) - [SF](http://geekgirlbrunch.com/chapters/united-states/west/san-francisco/)
+ * Just joined, not sure how active it is yet
 * Anita Borg Institute [Silicon Valley](https://local.anitaborg.org/groups/abi-silicon-valley/)
  * "ABI.Silicon Valley will host regular events and we are always looking for volunteer and contributors to our blogs and forums."
  * Not very active from what I can see
