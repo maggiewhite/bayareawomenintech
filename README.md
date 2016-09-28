@@ -236,6 +236,9 @@ List of organizations for women in tech accessible from the bay area.
  * 10 week full-time python coding boot camp for women
 * [mothercoders](http://www.mothercoders.org/) - SF and Berkeley/Oakland
  * A tech orientation program designed for women with kids
+* [Techtonica](http://techtonica.org/)
+ * A new non-profit that provides free tech training to local, low-income women and non-binary adults so they can #BridgeTheTechGap.
+ * Class start dates/sign up information has not yet been released (9/2016)
 * [skillcrush](http://skillcrush.com/)
  * Online tech bootcamp geared towards women
 
