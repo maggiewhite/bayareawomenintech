@@ -181,6 +181,9 @@ List of organizations for women in tech accessible from the bay area.
  * Opportunities to mentor, coach, volunteer, judge or be an ambassador
 * [techbridge](http://www.techbridgegirls.org/index.php?id=55) - Oakland, San Jose
  * An after school program that involves  families, role models, school districts and partners to help girls from undeserved communities learn about STEM
+* [ChickTech](http://bayarea.chicktech.org/)
+ * Multiple workshop leader and board positions available
+ * We facilitate hands-on technology-centric events to empower, support, and increase the confidence of women and girls. 
 * [TechWomen](https://www.techwomen.org/mentors/apply-now)
  * Volunteer as a professional or cultural mentor from September - October to mentor a woman from Africa, Central Asia or the Middle East
  * Requires that you have a job and a project for said person, and are willing to work with them for five weeks
