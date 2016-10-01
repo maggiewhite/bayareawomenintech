@@ -41,7 +41,7 @@ List of organizations for women in tech accessible from the bay area.
 
 <a name="facebook"/>
 ### Facebook Groups
-* [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)
+* [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)/[Jobs and Internships](https://www.facebook.com/groups/LSHJobs/)
  * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group's MO is to help close the gender gap in hackathons. There's also a Bay Area variant (linked above)
 * [Russian-Speaking Women in Tech Silicon Valley](https://www.facebook.com/groups/RussianWomenInTech)
 * [EdTechWomen](https://www.facebook.com/groups/885534781541043/) - [SF](https://www.facebook.com/groups/1062156953802924/)
@@ -49,6 +49,12 @@ List of organizations for women in tech accessible from the bay area.
 * [Women in Gaming](https://www.facebook.com/groups/396715327030958/?ref=br_rs)
 * [San Francisco Women in Tech](https://www.facebook.com/groups/201493976856135)
 * WOMEN GET IT DONE - [SF](https://www.facebook.com/groups/womengetitdone/)
+* [Silicon Valley Women](https://www.facebook.com/groups/SVWomen/)
+ * This group is intended as a collection of resources for women in tech. It contain actionable advice, inspiring examples, and useful information.
+* [Female Founders Conference](https://www.facebook.com/groups/femalefoundersconference/)
+ * Y Combinator's community of female founders, this group is great for supporting and meeting other entrepreneurs and leaders in tech.
+* [Girls in Tech - San Francisco](https://www.facebook.com/groups/55771429119/)
+ * Girls in Tech is a network focused on the engagement, education, and empowerment of like-minded, professional, intelligent, and influential women in technology.
 
 <a name="slackteams"/>
 ### Slack Teams
@@ -205,6 +211,8 @@ List of organizations for women in tech accessible from the bay area.
 * [Girls Teaching Girls to Code](http://www.girlsteachinggirlstocode.org)
  * Stanford women in technical fields teach and inspire Bay Area high school girls to explore CS and engineering
  * High school students can apply for the liaison program to work with GTGTC to organize events in their communities
+* [Hackbright Academy](https://hackbrightacademy.com/mentor/)
+ * Volunteer to mentor a Hackbright student (3 month commitment for 1 hour/week)
 
 <a name="professionals"/>
 ## Paid Networking Groups
