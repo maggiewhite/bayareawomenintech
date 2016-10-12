@@ -55,6 +55,8 @@ List of organizations for women in tech accessible from the bay area.
  * Y Combinator's community of female founders, this group is great for supporting and meeting other entrepreneurs and leaders in tech.
 * [Girls in Tech - San Francisco](https://www.facebook.com/groups/55771429119/)
  * Girls in Tech is a network focused on the engagement, education, and empowerment of like-minded, professional, intelligent, and influential women in technology.
+* [Tech Ladies](http://www.hiretechladies.com/)
+ * Very similar to [Dreamers // Doers](http://www.dreamersdoers.me/), a very active facebook community for focused on specific asks and offers
 
 <a name="slackteams"/>
 ### Slack Teams
