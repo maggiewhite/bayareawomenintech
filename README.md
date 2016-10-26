@@ -41,6 +41,7 @@ List of organizations for women in tech accessible from the bay area.
 
 <a name="facebook"/>
 ### Facebook Groups
+* [AR VR Academy SF (https://www.facebook.com/groups/arvracademy/) Silicon Valley - South Bay/Peninsula](https://www.facebook.com/groups/arvracademysv/)]
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)/[Jobs and Internships](https://www.facebook.com/groups/LSHJobs/)
  * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group's MO is to help close the gender gap in hackathons. There's also a Bay Area variant (linked above)
 * [Russian-Speaking Women in Tech Silicon Valley](https://www.facebook.com/groups/RussianWomenInTech)
