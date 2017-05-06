@@ -23,9 +23,11 @@ All groups/events are free unless otherwise specified.
 * [Sources/Other good lists](#sources)
 
 <a name="onlinecommunication"/>
+
 ## Online Communication
 
 <a name="emaillists"/>
+
 ### Email Lists
 
 * `*` [Systers](http://anitaborg.org/get-involved/systers/) <a name="systers"/>
@@ -44,6 +46,7 @@ All groups/events are free unless otherwise specified.
 * [Women & Mozilla](http://lists.womoz.org/mailman/listinfo/womoz)
 
 <a name="facebook"/>
+
 ### Facebook Groups
 
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)/[Jobs and Internships](https://www.facebook.com/groups/LSHJobs/)
@@ -64,6 +67,7 @@ All groups/events are free unless otherwise specified.
 	* Very similar to [Dreamers // Doers](http://www.dreamersdoers.me/), a very active facebook community for focused on specific asks and offers
 
 <a name="slackteams"/>
+
 ### Slack Teams
 
 * <strong>*</strong>[Women in Tech](http://witchat.github.io/)
@@ -74,9 +78,11 @@ All groups/events are free unless otherwise specified.
 * [Women Who Code - Silicon Valley](#womenwhocode)
 
 <a name="events"/>
+
 ## Event-based groups
 
 <a name="generalevents"/>
+
 ### General
 
 * [Girls In Tech](http://girlsintech.org/) - [SF](https://www.facebook.com/GirlsInTech.SanFrancisco/events)
@@ -145,6 +151,7 @@ All groups/events are free unless otherwise specified.
  * Doesn't appear to be very active
 
 <a name="techevents"/>
+
 ### Tech specific
 
 * PyLadies [SF](http://www.meetup.com/pyladiessf/)/[Silicon Valley](http://www.meetup.com/PyLadies-Silicon-Valley/)
@@ -184,6 +191,7 @@ All groups/events are free unless otherwise specified.
  * Doesn't host events specifically for women in robotics, but if you join you can "steer the agenda" of Silicon Valley Robotics
 
 <a name="volunteer"/>
+
 ## Volunteer Opportunities
 
 * [Girls Who Code](http://girlswhocode.com/get-involved/)
@@ -227,6 +235,7 @@ All groups/events are free unless otherwise specified.
  * Volunteer to mentor a Hackbright student (3 month commitment for 1 hour/week)
 
 <a name="professionals"/>
+
 ## Paid Networking Groups
 
 * [Watermark](https://www.wearewatermark.org/)
@@ -255,6 +264,7 @@ All groups/events are free unless otherwise specified.
  * $55-150/year
 
 <a name="education"/>
+
 ## Education/Boot Camps (not free)
 
 * [HackBright Academy](https://hackbrightacademy.com/)
@@ -268,6 +278,7 @@ All groups/events are free unless otherwise specified.
 	* Online tech bootcamp geared towards women
 
 <a name="other"/>
+
 ## Other
 
 * [Double Union](https://doubleunion.tumblr.com/)
@@ -276,6 +287,7 @@ All groups/events are free unless otherwise specified.
 	 * Not women-specific, but "a people-of-color-led, gender-diverse, queer and trans inclusive hacker/maker space in East Oakland"
 
 <a name="contribute"/>
+
 ## How to Contribute to this list
 
 * Help me figure out how to add social media badges for Meetup, Facebook, Twitter etc
@@ -284,6 +296,7 @@ All groups/events are free unless otherwise specified.
 * Make it "prettier", improve markdown formatting
 
 <a name="sources"/>
+
 ## Sources/Other good lists
 
 * [Salesforce: Women In Tech Organizations You Should Know About!](https://developer.salesforce.com/blogs/engineering/2015/04/sfwitwednesday-women-tech-organizations-know.html)
