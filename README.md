@@ -1,16 +1,20 @@
 # bayareawomenintech
-List of organizations for women in tech accessible from the bay area.
-<br>All groups/events are free unless otherwise specified.
-<br><strong>*</strong> Indicates the org requires members to identify as women
 
-##### Table of Contents  
+List of organizations for women in tech accessible from the bay area.
+
+All groups/events are free unless otherwise specified.
+
+`*` Indicates the org requires members to identify as women
+
+#### Table of Contents 
+ 
 * [Online Communication](#onlinecommunication)
- * [Email Lists](#emaillists)
- * [Facebook Groups](#facebook)
- * [Slack Teams](#slackteams)
+	* [Email Lists](#emaillists)
+	* [Facebook Groups](#facebook)
+	* [Slack Teams](#slackteams)
 * [Event-based Groups](#events)
- * [General](#generalevents)
- * [Tech-Specific](#techevents)
+	* [General](#generalevents)
+	* [Tech-Specific](#techevents)
 * [Volunteer Opportunities](#volunteer)
 * [Paid Professional Groups](#professionals)
 * [Education/Boot Camps](#education)
@@ -24,25 +28,26 @@ List of organizations for women in tech accessible from the bay area.
 <a name="emaillists"/>
 ### Email Lists
 
-* <strong>*</strong>[Systers](http://anitaborg.org/get-involved/systers/) <a name="systers"/>
- * Run by the same people who organize GHC (Anita Borg Institute)
- * There are local (bay area) and general email lists
-* <strong>*</strong>[CodeChix](http://codechix.org/portfolio/codechix-bay-area/)-[Events](http://www.eventbrite.com/o/codechix-bayarea-1321797263)
-* <strong>*</strong>[DevChix](http://www.devchix.com/join-devchix/)
+* `*` [Systers](http://anitaborg.org/get-involved/systers/) <a name="systers"/>
+	* Run by the same people who organize GHC (Anita Borg Institute)
+	* There are local (bay area) and general email lists
+* `*` [CodeChix](http://codechix.org/portfolio/codechix-bay-area/)-[Events](http://www.eventbrite.com/o/codechix-bayarea-1321797263)
+* `*` [DevChix](http://www.devchix.com/join-devchix/)
 * [LinuxChix](http://mailman.linuxchix.org/mailman/listinfo/)-[Silicon Valley](http://www.linuxchix.org/content/silicon-valley-california)
- * Not exclusive to people who identify as women, but women-focused
+	* Not exclusive to people who identify as women, but women-focused
 * [Global Tech Women](http://www.globaltechwomen.com/)
- * Hosts a virtual book club and annual conference
+	* Hosts a virtual book club and annual conference
 * [Tech Ladymafia](http://techladymafia.com/jointheladymafia)
- * Have personally send the email mod several emails, no response. Possibly inactive?
+	* Have personally send the email mod several emails, no response. Possibly inactive?
 * [XX-UX](https://plus.google.com/communities/108691399738995815547)
- * Women in UX
+	* Women in UX
 * [Women & Mozilla](http://lists.womoz.org/mailman/listinfo/womoz)
 
 <a name="facebook"/>
 ### Facebook Groups
+
 * [Ladies Storm Hackathons General](https://www.facebook.com/groups/LadiesStormHackathons/)/[Bay Area](https://www.facebook.com/groups/LadiesStormHackathonsBay/)/[Jobs and Internships](https://www.facebook.com/groups/LSHJobs/)
- * Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group's MO is to help close the gender gap in hackathons. There's also a Bay Area variant (linked above)
+	* Based off of the popular Facebook group [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/), this group's MO is to help close the gender gap in hackathons. There's also a Bay Area variant (linked above)
 * [Russian-Speaking Women in Tech Silicon Valley](https://www.facebook.com/groups/RussianWomenInTech)
 * [EdTechWomen](https://www.facebook.com/groups/885534781541043/) - [SF](https://www.facebook.com/groups/1062156953802924/)
 * Women of Color in Tech - [Bay Area](https://www.facebook.com/groups/WOCinbay/?ref=br_rs)
@@ -50,31 +55,34 @@ List of organizations for women in tech accessible from the bay area.
 * [San Francisco Women in Tech](https://www.facebook.com/groups/201493976856135)
 * WOMEN GET IT DONE - [SF](https://www.facebook.com/groups/womengetitdone/)
 * [Silicon Valley Women](https://www.facebook.com/groups/SVWomen/)
- * This group is intended as a collection of resources for women in tech. It contain actionable advice, inspiring examples, and useful information.
+	* This group is intended as a collection of resources for women in tech. It contain actionable advice, inspiring examples, and useful information.
 * [Female Founders Conference](https://www.facebook.com/groups/femalefoundersconference/)
- * Y Combinator's community of female founders, this group is great for supporting and meeting other entrepreneurs and leaders in tech.
+	* Y Combinator's community of female founders, this group is great for supporting and meeting other entrepreneurs and leaders in tech.
 * [Girls in Tech - San Francisco](https://www.facebook.com/groups/55771429119/)
- * Girls in Tech is a network focused on the engagement, education, and empowerment of like-minded, professional, intelligent, and influential women in technology.
+	* Girls in Tech is a network focused on the engagement, education, and empowerment of like-minded, professional, intelligent, and influential women in technology.
 * [Tech Ladies](http://www.hiretechladies.com/)
- * Very similar to [Dreamers // Doers](http://www.dreamersdoers.me/), a very active facebook community for focused on specific asks and offers
+	* Very similar to [Dreamers // Doers](http://www.dreamersdoers.me/), a very active facebook community for focused on specific asks and offers
 
 <a name="slackteams"/>
 ### Slack Teams
+
 * <strong>*</strong>[Women in Tech](http://witchat.github.io/)
- * The most active women in tech slack that I'm aware of
+	* The most active women in tech slack that I'm aware of
 * <strong>*</strong>[Women Techmakers](https://www.womentechmakers.com/membership) - Silicon Valley
- * The early career slack is pretty active, apply to join
+	* The early career slack is pretty active, apply to join
 * [Systers](#systers)
 * [Women Who Code - Silicon Valley](#womenwhocode)
 
 <a name="events"/>
 ## Event-based groups
+
 <a name="generalevents"/>
 ### General
+
 * [Girls In Tech](http://girlsintech.org/) - [SF](https://www.facebook.com/GirlsInTech.SanFrancisco/events)
- * Host ~$20-35 networking dinners once a month
- * Also host free coworking sessions, networking and mentor events
- * Can sign up to volunteer if cost is an issue
+	* Host ~$20-35 networking dinners once a month
+	* Also host free coworking sessions, networking and mentor events
+	* Can sign up to volunteer if cost is an issue
 * Lean in Circle: [SF: Women of the 415](http://leanincircles.org/circle/women-of-the-415)/[Palo Alto Lean In](http://leanincircles.org/circle/palo-alto-lean-in/)
  * Based on Sheryl Sandberg's "Lean In" book
  * SF chapter: Has paid (~$10-20) workshops/talks relatively often
@@ -138,6 +146,7 @@ List of organizations for women in tech accessible from the bay area.
 
 <a name="techevents"/>
 ### Tech specific
+
 * PyLadies [SF](http://www.meetup.com/pyladiessf/)/[Silicon Valley](http://www.meetup.com/PyLadies-Silicon-Valley/)
  * Female Python developers get together regularly to hack on projects and help each other through the process
  * SF branch has two workshops a week, SV branch has 2 workshops a month
@@ -176,6 +185,7 @@ List of organizations for women in tech accessible from the bay area.
 
 <a name="volunteer"/>
 ## Volunteer Opportunities
+
 * [Girls Who Code](http://girlswhocode.com/get-involved/)
  * A 7 week summer immersion program for high school sophomore and junior girls who are interested in learning to code
  * Clubs are all over the bay area
@@ -218,6 +228,7 @@ List of organizations for women in tech accessible from the bay area.
 
 <a name="professionals"/>
 ## Paid Networking Groups
+
 * [Watermark](https://www.wearewatermark.org/)
  * Yet another paid professional women's networking organization ($250-1000/year)
 * National Association of Professional Women (NAPW)
@@ -245,25 +256,28 @@ List of organizations for women in tech accessible from the bay area.
 
 <a name="education"/>
 ## Education/Boot Camps (not free)
+
 * [HackBright Academy](https://hackbrightacademy.com/)
- * 10 week full-time python coding boot camp for women
+	* 10 week full-time python coding boot camp for women
 * [mothercoders](http://www.mothercoders.org/) - SF and Berkeley/Oakland
- * A tech orientation program designed for women with kids
+	* A tech orientation program designed for women with kids
 * [Techtonica](http://techtonica.org/)
- * A new non-profit that provides free tech training to local, low-income women and non-binary adults so they can #BridgeTheTechGap.
- * Class start dates/sign up information has not yet been released (9/2016)
+	* A new non-profit that provides free tech training to local, low-income women and non-binary adults so they can #BridgeTheTechGap.
+	* Class start dates/sign up information has not yet been released (9/2016)
 * [skillcrush](http://skillcrush.com/)
- * Online tech bootcamp geared towards women
+	* Online tech bootcamp geared towards women
 
 <a name="other"/>
 ## Other
+
 * [Double Union](https://doubleunion.tumblr.com/)
- * Women's hackerspace near the 22nd St Caltrain station, they occasionally have public events
+	* Women's hackerspace near the 22nd St Caltrain station, they occasionally have public events
 * [LOL Oakland Makerspace](https://oaklandmakerspace.wordpress.com/)
- * Not women-specific, but "a people-of-color-led, gender-diverse, queer and trans inclusive hacker/maker space in East Oakland"
+	 * Not women-specific, but "a people-of-color-led, gender-diverse, queer and trans inclusive hacker/maker space in East Oakland"
 
 <a name="contribute"/>
 ## How to Contribute to this list
+
 * Help me figure out how to add social media badges for Meetup, Facebook, Twitter etc
 * Add organizations to the list via issues or a pull request!
 * Add short, relevant bullet points (15 words or less) if you think a description is lacking
@@ -271,6 +285,7 @@ List of organizations for women in tech accessible from the bay area.
 
 <a name="sources"/>
 ## Sources/Other good lists
+
 * [Salesforce: Women In Tech Organizations You Should Know About!](https://developer.salesforce.com/blogs/engineering/2015/04/sfwitwednesday-women-tech-organizations-know.html)
 * [Femgineer: Organizations Supporting Women In Tech](http://femgineer.com/2013/12/organizations-supporting-women-in-tech/)
 * [Tech.co: 30+ Organizations for Women in Technology](http://tech.co/organizations-women-technology-2012-07)
