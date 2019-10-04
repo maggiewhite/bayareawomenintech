@@ -196,7 +196,7 @@ All groups/events are free unless otherwise specified.
 
 * [Girls Who Code](http://girlswhocode.com/get-involved/)
 	* A 7 week summer immersion program for high school sophomore and junior girls who are interested in learning to code
-	* Clubs are all over the bay area
+	* Clubs are all over the Bay Area in schools and at public centers and are often seeking facilitators for their weekly meetings
 * [Black Girls Code](http://www.blackgirlscode.com/volunteer-signup.html)
 	* Getting African American girls interested in tech via workshops
 	* Active Chapters as of 2017 in Atlanta, Miami, Dallas, Boston, Bay Area, NYC, LA, and Memphis
@@ -233,6 +233,10 @@ All groups/events are free unless otherwise specified.
 	* High school students can apply for the liaison program to work with GTGTC to organize events in their communities
 * [Hackbright Academy](https://hackbrightacademy.com/mentor/)
 	* Volunteer to mentor a Hackbright student (3 month commitment for 1 hour/week)
+* [Built By Girls: WAVE](https://www.builtbygirls.com/about-wave)
+	* Connect with young women and non-binary students age 15-22 for short-term advising
+	* Meet with your assigned advisee for an hour per month for three months, then switch!
+	* National program with SF hub pairs you with a nearby student
 
 <a name="professionals"/>
 
